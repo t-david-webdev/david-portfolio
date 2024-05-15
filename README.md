@@ -1,8 +1,8 @@
-# React + Vite
+## T.David final CLA project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the final exam front-end developer project to showcase the knowledge regarding HTML, CSS, JS, and React.
 
-Currently, two official plugins are available:
+The project is distributed under the GPL-3.0 license.
+Feel free to copy, use the code for positive, consructive, greater purposes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clone it, code it, improve it, distribute it!
